@@ -4,6 +4,7 @@ using namespace std;
 
 int add(int a, int b)
 {
+	return a + b;
 	// complete the integer addition here and return the integer value
 	
 }
